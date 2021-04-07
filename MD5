@@ -1,10 +1,10 @@
-90f907832acb2f172daddfee48ad7553 *DESCRIPTION
+ce3ae9836279549324f9f3d8a56d0ef0 *DESCRIPTION
 d41d8cd98f00b204e9800998ecf8427e *NAMESPACE
-faa15d493b933c969d163f825a545e95 *NEWS.md
+594df3cbce942376a21955a733fa37e0 *NEWS.md
 4c1884cca790c3c75a538b7541bae17a *data/bastations.rda
 24d67d080024f674b3453a5942fb045f *data/batrips.rda
 67b25470da88ac2682bf27868ce4f99c *data/baweather.rda
 a40b06d9a7c391770cb10489f6ca3976 *data/datalist
-238475a93ad88f304ddad995e341bef9 *man/bastations.rd
-9610647b98cd168f3dce436369e9b3e9 *man/batrips.rd
-77611d28f6d56eec28c14de2279a0df7 *man/baweather.rd
+f44551739ae7acc2864886eb6cc33a85 *man/bastations.rd
+fc24db59f4f6f5306da134cf44556c7b *man/batrips.rd
+df2477acda601255b5fbd45aad9b94a9 *man/baweather.rd
